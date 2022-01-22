@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Writer", "Writer\Writer.csproj", "{E344F0C4-53E2-45A5-BA9A-E2A1274FAEA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TracerLibrary", "TracerLibrary\TracerLibrary.csproj", "{0BD480C5-5599-4F21-8657-F73D5E4BFED6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{873D5847-FC0A-4597-95C3-B4977E666C11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E344F0C4-53E2-45A5-BA9A-E2A1274FAEA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E344F0C4-53E2-45A5-BA9A-E2A1274FAEA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E344F0C4-53E2-45A5-BA9A-E2A1274FAEA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E344F0C4-53E2-45A5-BA9A-E2A1274FAEA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD480C5-5599-4F21-8657-F73D5E4BFED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD480C5-5599-4F21-8657-F73D5E4BFED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD480C5-5599-4F21-8657-F73D5E4BFED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD480C5-5599-4F21-8657-F73D5E4BFED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{873D5847-FC0A-4597-95C3-B4977E666C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{873D5847-FC0A-4597-95C3-B4977E666C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{873D5847-FC0A-4597-95C3-B4977E666C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{873D5847-FC0A-4597-95C3-B4977E666C11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBDDF7CB-B7B2-4C67-BDC6-30AC9C80761B}
+	EndGlobalSection
+EndGlobal
